@@ -1,0 +1,3 @@
+[
+    { "caption": "xmllint: Tidy", "command": "tidy_xml_lint" }
+]
